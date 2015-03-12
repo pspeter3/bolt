@@ -1,4 +1,4 @@
-Bolt [![Build Status](https://drone.io/github.com/boltdb/bolt/status.png)](https://drone.io/github.com/boltdb/bolt/latest) [![Coverage Status](https://img.shields.io/coveralls/boltdb/bolts/master.svg?style=flat-square)](https://coveralls.io/r/boltdb/bolt?branch=master) [![GoDoc](http://img.shields.io/badge/godoc-Reference-blue.svg?style=flat-square)](https://godoc.org/github.com/boltdb/bolt) ![Version](http://img.shields.io/badge/version-1.0-green.svg?style=flat-square)
+Bolt [![Build Status](https://drone.io/github.com/boltdb/bolt/status.png)](https://drone.io/github.com/boltdb/bolt/latest) [![Coverage Status](https://img.shields.io/coveralls/boltdb/bolts/master.svg?style=flat-square)](https://coveralls.io/r/boltdb/bolt?branch=master) [![GoDoc](http://img.shields.io/badge/godoc-Reference-blue.svg?style=flat-square)](https://godoc.org/github.com/boltdb/bolt) [![Version](http://img.shields.io/badge/version-1.0-green.svg?style=flat-square)](https://github.com/boltdb/bolt/releases/tag/v1.0)
 ====
 
 Bolt is a pure Go key/value store inspired by [Howard Chu's][hyc_symas] and
